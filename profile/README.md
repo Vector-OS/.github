@@ -71,7 +71,7 @@ Start with our [Contribution Guide](CONTRIBUTING.md).
 | 🌍 Website | Coming soon |
 | 🐦 Twitter |Coming soon |
 | 💼 LinkedIn | [Vector OS](https://www.linkedin.com/company/vector-os/?viewAsMember=true) |
-| 📩 Email | [vectorosofficial@zohomail.com](mailto:vectorosofficial@zohomail.com) |
+| 📩 Email | [support@vectoros.dpdns.org](mailto:support@vectoros.dpdns.org)|
 
 ---
 
