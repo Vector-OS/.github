@@ -1,8 +1,9 @@
 <!--
 Vector-OS Organization Profile README
-Tips:
+Notes:
 - Keep images lightweight (prefer SVG, or compressed PNGs).
-- Use relative links inside the org repo when possible.
+- GitHub READMEs support limited HTML/CSS; this file uses safe HTML only.
+- If you add new social links, keep them in the centered badge row.
 -->
 
 <p align="center">
@@ -29,17 +30,31 @@ Tips:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&width=800&lines=Open-source+that+changes+the+game.;Developer+tools+%E2%80%A2+AI+%E2%80%A2+Systems+%E2%80%A2+Cloud.;Designed+for+the+future.+Built+in+the+open." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&width=920&lines=Build+open-source+software+that+changes+the+game.;Developer+Tools+%E2%80%A2+AI+%26+ML+%E2%80%A2+Systems+%E2%80%A2+Cloud.;High+performance.+Beautiful+craft.+Real+impact.;Start+contributing+today+%E2%86%92+issues+are+waiting." alt="Typing animation" />
+</p>
+
+<p align="center">
+  <img alt="profile views" src="https://komarev.com/ghpvc/?username=Vector-OS&label=Org%20visits&color=22c55e&style=flat" />
+  <img alt="stars" src="https://img.shields.io/github/stars/Vector-OS?style=flat&label=Org%20stars" />
+  <img alt="followers" src="https://img.shields.io/github/followers/Vector-OS?style=flat&label=Followers" />
 </p>
 
 ---
 
 ## 🌟 Who We Are
 
-We’re a collective of creators — engineers, designers, and visionaries — united by one mission:
+We’re a collective of **engineers, designers, and visionaries** united by one mission:
 **build open‑source software that changes the game.**
 
 At **Vector OS**, we don’t follow trends — **we define them**.
+
+---
+
+## 🧭 What You’ll Find Here
+
+- **Production-minded open source** (readable code, clean architecture, useful docs)
+- **Beginner-friendly issues** to help new contributors ship their first PR
+- **Bold experiments**: practical AI, system-level performance, and modern web/cloud tooling
 
 ---
 
@@ -55,6 +70,9 @@ Boost productivity, streamline workflows, and eliminate bottlenecks.
 ### 🧠 AI & Machine Learning
 Practical intelligence, responsibly engineered.
 
+### 🎨 Design & DX
+Interfaces and developer experience that feel premium.
+
     </td>
     <td width="50%" valign="top">
 
@@ -63,6 +81,9 @@ Low‑level magic for high‑performance environments.
 
 ### ☁️ Web & Cloud Solutions
 Beautifully crafted full‑stack experiences.
+
+### 🔒 Security & Reliability
+Sane defaults, responsible disclosure, and resilient systems.
 
     </td>
   </tr>
@@ -73,7 +94,7 @@ Beautifully crafted full‑stack experiences.
 ## 🚀 Quick Start
 
 ```bash
-# 1) Clone any repo
+# 1) Clone any Vector-OS repo
 git clone https://github.com/Vector-OS/<project>
 
 # 2) Move in
@@ -87,31 +108,66 @@ cd <project>
 
 ## 🤝 Contribute (Start Here)
 
-We love contributors. If you’re new, here’s the fastest path:
+New to open source? You’re welcome here.
 
-1. **Find a project** you like under the Vector‑OS org.
-2. Look for issues labeled **good first issue** / **help wanted**.
-3. Read the **Contribution Guide** and open a PR.
+### ✅ Fast path (5 minutes)
+1. Pick a repo under **Vector-OS** that interests you.
+2. Open the **Issues** tab.
+3. Start with labels like **good first issue** or **help wanted**.
+
+### 🧩 Typical workflow
+1. **Fork** the repo
+2. Create a branch: `git checkout -b feature/my-change`
+3. Make your change + keep commits small
+4. Open a PR with a clear description
 
 **Contribution Guide:** [CONTRIBUTING.md](CONTRIBUTING.md)
 
 <details>
-  <summary><b>Contributor checklist</b></summary>
+  <summary><b>Contributor checklist (recommended)</b></summary>
 
-- Fork the repo and create a feature branch
-- Make small, focused commits with clear messages
+- Read the repo README (setup, scripts, conventions)
+- Keep PRs focused (one topic per PR)
 - Add/update tests when relevant
-- Run formatting/linting (if the project has it)
-- Open a PR with a short description + screenshots (if UI)
+- Run lint/format if the repo provides it
+- Update docs/screenshots if your change affects UX
+
+</details>
+
+<details>
+  <summary><b>What makes a great PR?</b></summary>
+
+- **Context:** what problem does it solve?
+- **Approach:** how did you solve it?
+- **Proof:** screenshots, logs, or test output
+- **Scope:** small and reviewable
 
 </details>
 
 ---
 
+## 🧠 How We Work
+
+- **Quality over hype**: we ship what we can support.
+- **Docs matter**: if it’s hard to use, it’s not done.
+- **Respect & kindness**: collaboration beats ego.
+
+---
+
 ## 💬 Community & Support
 
-- Need help? **Open an issue** in the relevant repository.
-- Want to propose something big? Start with a **discussion/issue** so we can align early.
+- Need help? Open an **issue** in the relevant repository.
+- Want to propose something big? Start with an issue/discussion so we can align early.
+
+---
+
+## 🌐 Connect With Us
+
+| Platform | Link |
+|----------|------|
+| 🌍 Website | https://vectoros.dpdns.org/ |
+| 💼 LinkedIn | https://www.linkedin.com/company/vector-os/?viewAsMember=true |
+| 📩 Email | support@vectoros.dpdns.org |
 
 ---
 
