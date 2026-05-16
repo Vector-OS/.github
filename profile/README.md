@@ -71,7 +71,6 @@ Start with our [Contribution Guide](CONTRIBUTING.md).
 | Platform | Link |
 |----------|------|
 | 🌍 Website | [Vector OS](https://vectoros.dpdns.org/)  |
-| 🐦 Twitter |Coming soon |
 | 💼 LinkedIn | [Vector OS](https://www.linkedin.com/company/vector-os/?viewAsMember=true) |
 | 📩 Email | [support@vectoros.dpdns.org](mailto:support@vectoros.dpdns.org)|
 
