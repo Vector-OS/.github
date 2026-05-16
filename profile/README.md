@@ -30,7 +30,7 @@ Notes:
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&width=920&lines=Build+open-source+software+that+changes+the+game.;Developer+Tools+%E2%80%A2+AI+%26+ML+%E2%80%A2+Systems+%E2%80%A2+Cloud.;High+performance.+Beautiful+craft.+Real+impact.;Start+contributing+today+%E2%86%92+issues+are+waiting." alt="Typing animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&duration=2500&pause=700&color=22C55E&center=true&vCenter=true&width=920&lines=Build+open-source+software+that+changes+[...]
 </p>
 
 <p align="center">
@@ -60,34 +60,19 @@ At **Vector OS**, we don’t follow trends — **we define them**.
 
 ## 💼 What We Build
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
+<!--
+GitHub sometimes renders HTML tables inconsistently on profile READMEs.
+Use a pure-Markdown table for reliable rendering.
+-->
 
-### ⚙️ Developer Tools
-Boost productivity, streamline workflows, and eliminate bottlenecks.
-
-### 🧠 AI & Machine Learning
-Practical intelligence, responsibly engineered.
-
-### 🎨 Design & DX
-Interfaces and developer experience that feel premium.
-
-    </td>
-    <td width="50%" valign="top">
-
-### 🖥️ System Software
-Low‑level magic for high‑performance environments.
-
-### ☁️ Web & Cloud Solutions
-Beautifully crafted full‑stack experiences.
-
-### 🔒 Security & Reliability
-Sane defaults, responsible disclosure, and resilient systems.
-
-    </td>
-  </tr>
-</table>
+| Area | What it means |
+|---|---|
+| **⚙️ Developer Tools** | Boost productivity, streamline workflows, and eliminate bottlenecks. |
+| **🧠 AI & Machine Learning** | Practical intelligence, responsibly engineered. |
+| **🎨 Design & DX** | Interfaces and developer experience that feel premium. |
+| **🖥️ System Software** | Low‑level magic for high‑performance environments. |
+| **☁️ Web & Cloud Solutions** | Beautifully crafted full‑stack experiences. |
+| **🔒 Security & Reliability** | Sane defaults, responsible disclosure, and resilient systems. |
 
 ---
 
