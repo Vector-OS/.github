@@ -10,7 +10,7 @@ Notes:
   <img src="https://github.com/Vector-OS/.github/blob/main/profile/github-header-banner.png?raw=true" alt="Vector OS Banner" width="100%" />
 </p>
 
-<h1 align="center">⚡️ Vector OS</h1>
+<h1 align="center">Vector OS</h1>
 
 <p align="center">
   <b>Innovating. Empowering. Disrupting.</b><br/>
@@ -41,7 +41,7 @@ Notes:
 
 ---
 
-## 🌟 Who We Are
+## Who We Are
 
 We’re a collective of **engineers, designers, and visionaries** united by one mission:
 **build open‑source software that changes the game.**
@@ -50,7 +50,7 @@ At **Vector OS**, we don’t follow trends — **we define them**.
 
 ---
 
-## 🧭 What You’ll Find Here
+## What You’ll Find Here
 
 - **Production-minded open source** (readable code, clean architecture, useful docs)
 - **Beginner-friendly issues** to help new contributors ship their first PR
@@ -58,7 +58,7 @@ At **Vector OS**, we don’t follow trends — **we define them**.
 
 ---
 
-## 💼 What We Build
+## What We Build
 
 <!--
 GitHub sometimes renders HTML tables inconsistently on profile READMEs.
@@ -67,16 +67,16 @@ Use a pure-Markdown table for reliable rendering.
 
 | Area | What it means |
 |---|---|
-| **⚙️ Developer Tools** | Boost productivity, streamline workflows, and eliminate bottlenecks. |
-| **🧠 AI & Machine Learning** | Practical intelligence, responsibly engineered. |
-| **🎨 Design & DX** | Interfaces and developer experience that feel premium. |
-| **🖥️ System Software** | Low‑level magic for high‑performance environments. |
-| **☁️ Web & Cloud Solutions** | Beautifully crafted full‑stack experiences. |
-| **🔒 Security & Reliability** | Sane defaults, responsible disclosure, and resilient systems. |
+| **Developer Tools** | Boost productivity, streamline workflows, and eliminate bottlenecks. |
+| **AI & Machine Learning** | Practical intelligence, responsibly engineered. |
+| **Design & DX** | Interfaces and developer experience that feel premium. |
+| **System Software** | Low‑level magic for high‑performance environments. |
+| **Web & Cloud Solutions** | Beautifully crafted full‑stack experiences. |
+| **Security & Reliability** | Sane defaults, responsible disclosure, and resilient systems. |
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ```bash
 # 1) Clone any Vector-OS repo
@@ -91,16 +91,16 @@ cd <project>
 
 ---
 
-## 🤝 Contribute (Start Here)
+## Contribute (Start Here)
 
 New to open source? You’re welcome here.
 
-### ✅ Fast path (5 minutes)
+### Fast path (5 minutes)
 1. Pick a repo under **Vector-OS** that interests you.
 2. Open the **Issues** tab.
 3. Start with labels like **good first issue** or **help wanted**.
 
-### 🧩 Typical workflow
+### Typical workflow
 1. **Fork** the repo
 2. Create a branch: `git checkout -b feature/my-change`
 3. Make your change + keep commits small
@@ -131,7 +131,7 @@ New to open source? You’re welcome here.
 
 ---
 
-## 🧠 How We Work
+## How We Work
 
 - **Quality over hype**: we ship what we can support.
 - **Docs matter**: if it’s hard to use, it’s not done.
@@ -139,24 +139,24 @@ New to open source? You’re welcome here.
 
 ---
 
-## 💬 Community & Support
+## Community & Support
 
 - Need help? Open an **issue** in the relevant repository.
 - Want to propose something big? Start with an issue/discussion so we can align early.
 
 ---
 
-## 🌐 Connect With Us
+## Connect With Us
 
 | Platform | Link |
 |----------|------|
-| 🌍 Website | https://vectoros.dpdns.org/ |
-| 💼 LinkedIn | https://www.linkedin.com/company/vector-os/?viewAsMember=true |
-| 📩 Email | support@vectoros.dpdns.org |
+| Website | https://vectoros.dpdns.org/ |
+| LinkedIn | https://www.linkedin.com/company/vector-os/?viewAsMember=true |
+| Email | support@vectoros.dpdns.org |
 
 ---
 
-## 📄 License
+## License
 
 Unless a repository says otherwise, projects under **Vector OS** are licensed under the **MIT License**.
 
