@@ -7,7 +7,7 @@ Notes:
 -->
 
 <p align="center">
-  <img src="https://github.com/Vector-OS/.github/blob/main/profile/github-header-banner.png?raw=true" alt="Vector OS Banner" width="100%" />
+  <img src="https://github.com/Vector-OS/.github/blob/main/profile/vector%20os%20final%20banner.jpeg?raw=true" alt="Vector OS Banner" width="100%" />
 </p>
 
 <h1 align="center">Vector OS</h1>
